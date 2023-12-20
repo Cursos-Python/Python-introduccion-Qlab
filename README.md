@@ -5,8 +5,8 @@ Todos los créditos le pertenecen a Claudia Vivas del Qlab.
 
 -	 Editado por @luccemhu.
   
-Las clases están en la siguiente organización:
-https://github.com/orgs/Python-introduccion-Qlab/repositories
+Las clases están en el siguiente repositorio:
+https://github.com/luccemhu/Python-introduccion-Qlab
 
 Para abrir los archivos `.ipynb`, seguir la siguiente ruta:
 
