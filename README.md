@@ -1,7 +1,7 @@
 # [Taller Introductorio de Python - PUCP - QLAB - 2023-2](https://github.com/luccemhu/Python-introduccion-Qlab)
 
 
-Todos los créditos le pertenecen a Claudia Vivas del Qlab.
+Todos los créditos les pertenecen a Pamela Salazar (2023-2) & Claudia Vivas (2023-1) del Qlab.
 
 -	 Editado por @luccemhu.
   
