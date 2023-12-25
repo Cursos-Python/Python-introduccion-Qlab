@@ -1,4 +1,4 @@
-# Taller Introductorio de Python - PUCP - QLAB - 2023-2
+# [Taller Introductorio de Python - PUCP - QLAB - 2023-2](https://github.com/luccemhu/Python-introduccion-Qlab)
 
 
 Todos los créditos le pertenecen a Claudia Vivas del Qlab.
